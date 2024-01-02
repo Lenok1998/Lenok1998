@@ -1,7 +1,7 @@
-# Привет всем! 👋
-## Меня зовут Елена! 
+### Привет всем! 👋
+### :woman_technologist: Меня зовут Елена! 
 ### Я - Junior QA Automation Engineer на Java.
-## :female_student: Образование
+## :woman_student: Образование
 <p align="center">
 
 <a href="https://www.sstu.ru/"><img width="30%" title="Sstu" src="media/logo/sstu.png"></a>
