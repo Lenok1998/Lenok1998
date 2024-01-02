@@ -2,6 +2,7 @@
 ### :woman_technologist: Меня зовут Елена! 
 ### Я - Junior QA Automation Engineer на Java.
 <p></p>
+
 ## :woman_student: Образование
 <p align="center">
 
