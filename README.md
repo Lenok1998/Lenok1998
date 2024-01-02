@@ -4,9 +4,9 @@
 ## :woman_student: Образование
 <p align="center">
 
-<a href="https://www.sstu.ru/"><img width="30%" title="Sstu" src="media/logo/sstu.png"></a>
-<a href="https://inpit.sstu.ru/home.php"><img width="30%" title="INPIT" src="media/logo/inpit.png"></a>
-<a href="https://qa.guru/"><img width="30%" title="INPIT" src="media/logo/qaguru.png"></a>
+<a href="https://www.sstu.ru/"><img width="10%" title="Sstu" src="media/logo/sstu.png"></a>
+<a href="https://inpit.sstu.ru/home.php"><img width="10%" title="INPIT" src="media/logo/inpit.png"></a>
+<a href="https://qa.guru/"><img width="10%" title="Qa-guru" src="media/logo/qaguru.png"></a>
 ## :arrow_forward: Используемые инструменты
 <p align="center">
 <a href="https://www.java.com/"><img width="6%" title="Java" src="media/logo/Java.svg"></a>
