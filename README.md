@@ -21,3 +21,7 @@
 <a href="https://web.telegram.org/a/"><img width="6%" title="Telegram" src="media/logo/Telegram.svg"></a>
 <a href="https://www.atlassian.com/ru/software/jira/"><img width="5%" title="Jira" src="media/logo/Jira.svg"></a>
 </p>
+
+## :writing_hand: Контакты 
+<a href="@ElenaMalysheva98/a/"><img width="30%" title="Telegram" src="media/logo/Telegram.svg"></a>
+<a href="malto:malyseva630@gmail.com /a/"><img width="30%" title="Telegram" src="media/logo/gmail-new-icon5198.jpg"></a>
