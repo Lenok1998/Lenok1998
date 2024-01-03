@@ -29,6 +29,6 @@
 
 ## :mailbox_with_mail: Контакты
 
-<img width="6%" title="Telegram" src="media/logo/Telegram.svg"></a> @ElenaMalysheva98
+<img width="3%" title="Telegram" src="media/logo/Telegram.svg"></a> @ElenaMalysheva98
 
 :e-mail: malyseva630@gmail.com
