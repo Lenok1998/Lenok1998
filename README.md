@@ -26,5 +26,4 @@
 <a href="https://web.telegram.org/a/"><img width="6%" title="Telegram" src="media/logo/Telegram.svg"></a>
 <a href="https://www.atlassian.com/ru/software/jira/"><img width="5%" title="Jira" src="media/logo/Jira.svg"></a>
 </p>
-
 [![Моя статистика](https://github-readme-stats.vercel.app/api?username=Lenok1998&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Lenok1998/github-readme-stats#gh-light-mode-only)
