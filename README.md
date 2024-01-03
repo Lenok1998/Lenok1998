@@ -6,9 +6,12 @@
 ## :woman_student: Образование
 <p align="center">
   [Саратовский государственный технический университет](https://www.sstu.ru/)
+  
   [Институт прикладных информационных технологий и коммуникаций](https://inpit.sstu.ru/home.php)
+  
   [Школа автоматизации тестирования QA-GURU](https://qa.guru/)
-## :arrow_forward: Используемые инструменты
+
+  ## :arrow_forward: Используемые инструменты
 <p align="center">
 <a href="https://www.java.com/"><img width="6%" title="Java" src="media/logo/Java.svg"></a>
 <a href="https://selenide.org/"><img width="6%" title="Selenide" src="media/logo/Selenide.svg"></a>
