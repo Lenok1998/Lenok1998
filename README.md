@@ -1,6 +1,6 @@
 ### Привет всем! 👋
 ### :woman_technologist: Меня зовут Елена.
-### Я - Junior QA Automation Engineer на Java.
+### :hatching_chick: Я - Junior QA Automation Engineer на Java.
 <p></p>
 
 ## :woman_student: Образование
@@ -27,3 +27,4 @@
 <a href="https://www.atlassian.com/ru/software/jira/"><img width="5%" title="Jira" src="media/logo/Jira.svg"></a>
 </p>
 
+[![Моя статистика](https://github-readme-stats.vercel.app/api?username=Lenok1998&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Lenok1998/github-readme-stats#gh-light-mode-only)
