@@ -34,3 +34,5 @@
 <img width="3%" title="Telegram" src="media/logo/Telegram.svg"></a> @ElenaMalysheva98
 
 :e-mail: malyseva630@gmail.com
+
+![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
