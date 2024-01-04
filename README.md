@@ -35,4 +35,4 @@
 
 :e-mail: malyseva630@gmail.com
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Lenok1998&theme=radical&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Lenok1998&theme=ambient_gradient&show_icons=true)
