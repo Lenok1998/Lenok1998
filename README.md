@@ -3,6 +3,8 @@
 ### :hatching_chick: Я - Junior QA Automation Engineer на Java.
 <p></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lenok1998)](https://github.com/Lenok1998/github-profile-trophy)
+
 ## :woman_student: Образование
 <p align="center">
   
@@ -35,4 +37,3 @@
 
 :e-mail: - malyseva630@gmail.com
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lenok1998)](https://git.io/streak-stats)
