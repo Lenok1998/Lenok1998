@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F731C8&center=true&vCenter=true&random=false&width=435&lines=%D0%B2+QA+%D0%BF%D0%BE+%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8)](https://git.io/typing-svg)
-
 ### Привет всем! 👋
 ### :woman_technologist: Меня зовут Елена.
 ### :hatching_chick: Я - Junior QA Automation Engineer на Java.
