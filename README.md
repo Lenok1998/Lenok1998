@@ -3,7 +3,7 @@
 ### :hatching_chick: Я - Junior QA Automation Engineer на Java.
 <p></p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Lenok1998&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lenok1998&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :woman_student: Образование
 <p align="center">
