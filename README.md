@@ -3,7 +3,7 @@
 ### :hatching_chick: Я - Junior QA Automation Engineer на Java.
 <p></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lenok1998&theme=neon&locale=ru&exclude_days=Sun)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lenok1998&theme=defaut&locale=ru&exclude_days=Sun)](https://git.io/streak-stats)
 ## :woman_student: Образование
 <p align="center">
   
