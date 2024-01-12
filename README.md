@@ -30,6 +30,9 @@
 <a href="https://rest-assured.io/"><img width="5%" title="Rest Assured" src="rest.png"></a>
 </p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=Sibintek_AutomationTests
+](https://github.com/Lenok1998/Sibintek_AutomationTests)
+
 ## :mailbox_with_mail: Контакты
 
 <img width="3%" title="Telegram" src="media/logo/Telegram.svg"></a> - @ElenaMalysheva98
