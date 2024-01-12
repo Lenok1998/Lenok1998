@@ -7,7 +7,7 @@
 ## :woman_student: Образование
 <p align="center">
   
-:books:  [Саратовский государственный технический университет](https://www.sstu.ru/)
+:man_astronaut:  [Саратовский государственный технический университет им.Гагарина Ю.А](https://www.sstu.ru/)
   
 :computer: [Институт прикладных информационных технологий и коммуникаций](https://inpit.sstu.ru/home.php)
   
@@ -30,6 +30,7 @@
 <a href="https://rest-assured.io/"><img width="5%" title="Rest Assured" src="rest.png"></a>
 </p>
 
+## :teacher: Учебные проекты
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=Sibintek_AutomationTests)](https://github.com/Lenok1998/Sibintek_AutomationTests)
 
 ## :mailbox_with_mail: Контакты
