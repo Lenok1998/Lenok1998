@@ -29,6 +29,7 @@
 <a href="https://appium.io/docs/en/2.3/"><img width="5%" title="Appium" src="appium.svg"></a>
 <a href="https://rest-assured.io/"><img width="5%" title="Rest Assured" src="rest.png"></a>
 </p>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=Sibintek_AutomationTests)](https://github.com/Lenok1998/Sibintek_AutomationTests)
 
 ## :mailbox_with_mail: Контакты
