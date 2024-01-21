@@ -33,7 +33,7 @@
 ## :teacher: Учебные проекты
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=Sibintek_AutomationTests)](https://github.com/Lenok1998/Sibintek_AutomationTests)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lenok1998&show_icons=true&theme=transparent&language=ru)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lenok1998&show_icons=true&theme=transparent&locale=ru)
 
 ## :mailbox_with_mail: Контакты
 
