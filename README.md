@@ -27,6 +27,7 @@
 <a href="https://www.jenkins.io/"><img width="6%" title="Jenkins" src="media/logo/Jenkins.svg"></a>
 <a href="https://web.telegram.org/a/"><img width="6%" title="Telegram" src="media/logo/Telegram.svg"></a>
 <a href="https://www.atlassian.com/ru/software/jira/"><img width="5%" title="Jira" src="media/logo/Jira.svg"></a>
+<a href="https://www.browserstack.com/"><img width="5%" title="Browserstack" src="browserstack.png"></a>
 <a href="https://appium.io/docs/en/2.3/"><img width="5%" title="Appium" src="appium.svg"></a>
 <a href="https://rest-assured.io/"><img width="5%" title="Rest Assured" src="rest.png"></a>
 </p>
