@@ -35,6 +35,8 @@
 ## :teacher: Учебные проекты
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=UI_Web_Sibintek_Tests)](https://github.com/Lenok1998/Sibintek_AutomationTests)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=API_Regres.IN_Tests)](https://github.com/Lenok1998/API_Regres.IN_Tests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=SearchMobileTests)](https://github.com/Lenok1998/SearchMobileTests)
+
 
 
 
