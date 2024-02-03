@@ -31,7 +31,7 @@
 <a href="https://rest-assured.io/"><img width="5%" title="Rest Assured" src="rest.png"></a>
 </p>
 
-## :teacher: Дипломный проект
+## :teacher: Учебные проекты
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=UI_Web_Sibintek_Tests)](https://github.com/Lenok1998/Sibintek_AutomationTests)
 
 
