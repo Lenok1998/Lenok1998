@@ -33,11 +33,11 @@
 </p>
 
 ## :teacher: Учебные проекты
-### :teacher: UI-тесты 
+### 🖼️: UI-тесты 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=UI_Web_Sibintek_Tests)](https://github.com/Lenok1998/Sibintek_AutomationTests)
-### :teacher: API-тесты 
+### 🔙: API-тесты 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=API_Regres.IN_Tests)](https://github.com/Lenok1998/API_Regres.IN_Tests)
-### :Android: Android-тесты
+### 📱: Android-тесты
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=SearchMobileTests)](https://github.com/Lenok1998/SearchMobileTests)
 
 
