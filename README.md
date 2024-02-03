@@ -32,7 +32,7 @@
 <a href="https://rest-assured.io/"><img width="5%" title="Rest Assured" src="rest.png"></a>
 </p>
 
-## :teacher: Учебные проекты:
+## :teacher: Учебные проекты
 ### 🖼️ UI-тесты 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=UI_Web_Sibintek_Tests)](https://github.com/Lenok1998/Sibintek_AutomationTests)
 ### 🔙 API-тесты 
@@ -41,7 +41,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=SearchMobileTests)](https://github.com/Lenok1998/SearchMobileTests)
 
 
-
+## :postbox: Контакты 
 
 <img width="3%" title="Telegram" src="media/logo/Telegram.svg"></a> - @ElenaMalysheva98
 
