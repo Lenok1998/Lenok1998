@@ -38,7 +38,7 @@
 ### 🔙 API-тесты 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=API_Regres.IN_Tests)](https://github.com/Lenok1998/API_Regres.IN_Tests)
 ### 📱 Android-тесты
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=SearchMobileTests)](https://github.com/Lenok1998/SearchMobileTests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=WikipediaMobileTests)](https://github.com/Lenok1998/WikipediaMobileTests)
 
 
 ## :postbox: Контакты 
